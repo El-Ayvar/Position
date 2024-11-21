@@ -1,0 +1,20 @@
+.primero {
+    position: relative;
+    top: 30px;
+    left: 20px;
+    background-color: #ADD8E6;
+    padding: 20px 20px 0px 20px;
+    width: 100px;
+    height: 100px;
+}
+
+
+.segundo {
+    position: absolute;
+    right: 30px;
+    bottom: 20px;
+    background-color: #90EE90;
+    padding: 20px 20px 0px 20px;
+    width: 100px;
+    height: 100px;
+}
